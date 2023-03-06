@@ -43,7 +43,7 @@ def variant(dict, entry, lang, match):
 
 
 patterns = [(r'##([^\n]+)', remissive), (r'#\d+ ([^\n]+)', entry),
-            (r'$([^\n]+)', matter), (r'@([^\n]+)', lang),
+            (r'<matter>([^\n]+)', matter), (r'@([^\n]+)', lang),
             (r'\+([^\n]+)', word), (r'<synonym>([^\n]+)', synonym),
             (r'<variant>([^\n]+)', variant)]
 
@@ -54,7 +54,6 @@ dict = {
 entry = ''
 lang = ''
 
-j = 0
 for line in rfile:
     matched = False
     for i in range(0, len(patterns)):
