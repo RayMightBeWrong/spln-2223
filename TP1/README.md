@@ -2,7 +2,7 @@
 Converter o xml num ficheiro texto, que é mais facilmente interpretado
 [1st part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/1st_part)
 
-## FICHEIROS
+### FICHEIROS
 #### - medicina.xml
 conversão do dicionãrio em pdf para xml
 
@@ -26,7 +26,7 @@ ficheiro final (pequenas alterações feitas manualmente)
 A partir do ficheiro texto, criar um dicionário (json)
 [2nd part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/2nd_part)
 
-## FICHEIROS
+### FICHEIROS
 #### - medicina.txt
 ficheiro "medicina3.txt" da 1ª parte
 
