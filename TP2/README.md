@@ -4,12 +4,19 @@ No TP2, pretendia-se converter o dicionário orientado ao galego para um dicion�
 
 ### FICHEIROS
 #### - galego_medicina.json
-"dicionário" produzido no [TP1](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1)
+"dicionário" produzido no [TP1](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1) (orientado à língua galega)
 
-#### - galego_medicina.json
+#### - galego_to_global.py
+script python que converte o dicionário orientado ao galego para um dicionário orientado ao conteúdo e também, representa-o na linguagem criada
 
-#### - galego_medicina.json
+#### - global_medicina.json
+"dicionário" global produzido
 
-#### - galego_medicina.json
+#### - global_medicina.txt
+global_medicina.txt
 
-#### - galego_medicina.json
+#### - lang_lex.py
+sript python com a informação léxica da linguagem criada
+
+#### - lang_yacc.py
+parser da linguagem que representa dicionários
