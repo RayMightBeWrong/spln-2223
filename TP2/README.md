@@ -16,7 +16,7 @@ script python que converte o dicionário orientado ao galego para um dicionário
 global_medicina.txt
 
 #### - lang_lex.py
-sript python com a informação léxica da linguagem criada
+script python com a informação léxica da linguagem criada
 
 #### - lang_yacc.py
 parser da linguagem que representa dicionários
