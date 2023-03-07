@@ -13,7 +13,7 @@ script python que converte o dicionário orientado ao galego para um dicionário
 "dicionário" global produzido
 
 #### - global_medicina.txt
-global_medicina.txt
+"dicionário" global produzido representado na linguagem criada
 
 #### - lang_lex.py
 script python com a informação léxica da linguagem criada
