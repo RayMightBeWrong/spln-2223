@@ -1,3 +1,5 @@
+## 1ª PARTE
+Converter o xml num ficheiro texto, que é mais facilmente interpretado
 [1st part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/1st_part)
 
 ## FICHEIROS
@@ -20,5 +22,16 @@ script python que junta as linhas marcadas com "<join_previous>" à linha anteri
 ficheiro final (pequenas alterações feitas manualmente)
 
 
-
+## 2ª PARTE
+A partir do ficheiro texto, criar um dicionário (json)
 [2nd part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/2nd_part)
+
+## FICHEIROS
+#### - medicina.txt
+ficheiro "medicina3.txt" da 1ª parte
+
+#### - processador.py
+script python que interpreta o ficheiro txt para criar o dicionário
+
+#### - medicina.json
+"dicionário" resultante
