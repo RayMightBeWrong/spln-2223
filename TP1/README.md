@@ -1,7 +1,7 @@
 # 1ª PARTE
-Converter o xml num ficheiro texto, que é mais facilmente interpretado
-
 [1st part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/1st_part)
+
+Converter o xml num ficheiro texto, que é mais facilmente interpretado
 
 ### FICHEIROS
 #### - medicina.xml
@@ -24,9 +24,9 @@ ficheiro final (pequenas alterações feitas manualmente)
 
 
 ## 2ª PARTE
-A partir do ficheiro texto, criar um dicionário (json)
-
 [2nd part](https://github.com/RayMightBeWrong/spln-2223/tree/master/TP1/2nd_part)
+
+A partir do ficheiro texto, criar um dicionário (json)
 
 ### FICHEIROS
 #### - medicina.txt
