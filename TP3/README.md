@@ -1,6 +1,6 @@
 # TP3
 
-No TP3, pretendia-se converter o dicionário orientado ao galego para um dicionário global. Além disso, era necessário também criar uma linguagem para representar o novo dicionário e um parser para a mesma.
+No TP3, pretendia-se melhorar o parser para criar uma vista que representasse o dicionário
 
 ### FICHEIROS
 #### - lang_lex.py
